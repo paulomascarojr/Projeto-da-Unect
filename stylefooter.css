@@ -1,0 +1,23 @@
+@charset "UTF-8";
+:root{
+    --color-blue1: #003090;
+    --color-blue2: #0b56a4;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+position: absolute;
+width: 1280px;
+height: 50px;
+left: 0px;
+top: 670px;
+
+background: #114FA7;
+}
+
+.divmaior{
+    
+}
